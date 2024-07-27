@@ -1,1 +1,3 @@
-var x = '123';
+function addNums(a, b) {
+	return a + b;
+}
